@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
