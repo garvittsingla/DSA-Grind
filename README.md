@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
