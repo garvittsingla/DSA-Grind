@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/garvittsingla/DSA-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/garvittsingla/DSA-Grind/tree/master/0217-contains-duplicate) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvittsingla/DSA-Grind/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/garvittsingla/DSA-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/garvittsingla/DSA-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/garvittsingla/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/garvittsingla/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/garvittsingla/DSA-Grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
