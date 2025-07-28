@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/garvittsingla/DSA-Grind/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
