@@ -4,12 +4,11 @@ public:
       unordered_map<int,int> mpp;
       for(int i = 0 ; i < nums.size() ; i++){
         mpp[nums[i]]++;
-      }
-      for(auto it:mpp){
-        if(it.second > 1){
-            return it.first;
+        if(mpp[nums[i]]>1){
+            return nums[i];
         }
       }
+      
       return -1;
 
     }
