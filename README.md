@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/garvittsingla/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/garvittsingla/DSA-Grind/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/garvittsingla/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0932-monotonic-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0932-monotonic-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
