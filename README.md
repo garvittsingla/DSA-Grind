@@ -92,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/garvittsingla/DSA-Grind/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/garvittsingla/DSA-Grind/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
