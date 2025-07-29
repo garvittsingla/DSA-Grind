@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvittsingla/DSA-Grind/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/garvittsingla/DSA-Grind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garvittsingla/DSA-Grind/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/garvittsingla/DSA-Grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
 ## Counting Sort
