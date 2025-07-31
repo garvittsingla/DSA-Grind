@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/garvittsingla/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/garvittsingla/DSA-Grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/garvittsingla/DSA-Grind/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/garvittsingla/DSA-Grind/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/garvittsingla/DSA-Grind/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
