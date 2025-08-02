@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/garvittsingla/DSA-Grind/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/garvittsingla/DSA-Grind/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/garvittsingla/DSA-Grind/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/garvittsingla/DSA-Grind/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/garvittsingla/DSA-Grind/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
