@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        vector<int> res;
+        vector<int> ans;
         int carry = 1;
-        int currentindex = digits.size() - 1;
-        
-        while (currentindex >= 0 || carry != 0) {
-            int ele = carry;
-            if (currentindex >= 0) {
-                ele += digits[currentindex];
+        int i = digits.size()-1;
+        while(carry >0 || i >= 0){
+            int sums;
+            if(i >=0){
+                sums = digits[i]+carry;
+            }else{
+                sums = carry;
             }
-            res.insert(res.begin(), ele % 10);
-            carry = ele / 10;
-            currentindex--;
+            carry = sums/10;
+            ans.insert(ans.begin(),sums%10);
+            i--;
         }
-        return res;
+        return ans;
     }
 };
