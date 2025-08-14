@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0059-spiral-matrix-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
 ## Bit Manipulation
 |  |
 | ------- |
