@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/garvittsingla/DSA-Grind/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/garvittsingla/DSA-Grind/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/garvittsingla/DSA-Grind/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/garvittsingla/DSA-Grind/tree/master/0907-koko-eating-bananas) |
 | [0932-monotonic-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/garvittsingla/DSA-Grind/tree/master/0367-valid-perfect-square) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/garvittsingla/DSA-Grind/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/garvittsingla/DSA-Grind/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/garvittsingla/DSA-Grind/tree/master/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
