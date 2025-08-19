@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/garvittsingla/DSA-Grind/tree/master/0367-valid-perfect-square) |
 | [1448-maximum-69-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
 | ------- |
