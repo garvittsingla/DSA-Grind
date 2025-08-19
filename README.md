@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/garvittsingla/DSA-Grind/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/garvittsingla/DSA-Grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/garvittsingla/DSA-Grind/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
