@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/garvittsingla/DSA-Grind/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/garvittsingla/DSA-Grind/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/garvittsingla/DSA-Grind/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/garvittsingla/DSA-Grind/tree/master/0242-valid-anagram) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1448-maximum-69-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/garvittsingla/DSA-Grind/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
