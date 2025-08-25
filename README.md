@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0059-spiral-matrix-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
 ## Bit Manipulation
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/garvittsingla/DSA-Grind/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/garvittsingla/DSA-Grind/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/0387-first-unique-character-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
