@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/garvittsingla/DSA-Grind/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/garvittsingla/DSA-Grind/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/garvittsingla/DSA-Grind/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/garvittsingla/DSA-Grind/tree/master/0066-plus-one) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/garvittsingla/DSA-Grind/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/garvittsingla/DSA-Grind/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
