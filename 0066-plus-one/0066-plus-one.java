@@ -10,9 +10,7 @@ class Solution {
         if(carry==0) return digits;
         int[] ans = new int[digits.length+1];
         ans[0] = carry;
-        for(int i = 1; i < ans.length ; i++){
-            ans[i] = digits[i-1];
-        }
+        System.arraycopy(digits, 0, ans, 1, digits.length);
         return ans;
     }
 }
