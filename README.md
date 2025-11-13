@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
+| [2058-concatenation-of-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
