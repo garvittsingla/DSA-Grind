@@ -9,10 +9,10 @@ class Solution {
 
             if (nums[mid] == target) return mid;
 
-            boolean targetInUpper = target > nums[n];
-            boolean midInUpper = nums[mid] > nums[n];
+            boolean targetinupper = target > nums[n];
+            boolean midinupper = nums[mid] > nums[n];
 
-            if (targetInUpper == midInUpper) {
+            if (targetinupper == midinupper) {
                 if (target > nums[mid]) {
                     start = mid + 1;
                 } else {
@@ -20,7 +20,7 @@ class Solution {
                 }
             } 
             else {
-                if (targetInUpper) {
+                if (targetinupper) {
                     end = mid - 1;
                 } else {
                     start = mid + 1;
