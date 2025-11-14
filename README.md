@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/garvittsingla/DSA-Grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/garvittsingla/DSA-Grind/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/garvittsingla/DSA-Grind/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/garvittsingla/DSA-Grind/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/garvittsingla/DSA-Grind/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/garvittsingla/DSA-Grind/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/garvittsingla/DSA-Grind/tree/master/0278-first-bad-version) |
+| [1185-find-in-mountain-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1185-find-in-mountain-array) |
 ## Stack
 |  |
 | ------- |
