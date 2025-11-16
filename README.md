@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/garvittsingla/DSA-Grind/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/garvittsingla/DSA-Grind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Binary Search
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/garvittsingla/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/garvittsingla/DSA-Grind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/2887-sort-vowels-in-a-string) |
 ## Queue
