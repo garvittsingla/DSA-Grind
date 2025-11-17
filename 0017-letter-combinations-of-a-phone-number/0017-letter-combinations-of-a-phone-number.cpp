@@ -11,22 +11,20 @@ public:
         {8,{'t','u','v'}},
         {9,{'w','x','y','z'}},
     };
-    void helper(string digits,int index,string ds){
-        if(index >= digits.length()){
+    void helper(string digits, int index,string ds){
+        if(ds.size() == digits.size()){
             answer.push_back(ds);
             return;
         }
-        int number = digits[index] - '0';
-        int times= number == 7 || number == 9 ? 4 : 3;
-        for(int i = 0 ; i < times ; i++){
-            // ds.push_back(mpp[number][i]);
-            helper(digits,index+1,ds+mpp[number][i]);
+        int digit = digits[index] -'0';
+        vector<char> letters = mpp[digit];
+        for(int i = 0 ; i < letters.size() ; i++ ){
+            helper(digits,index+1,ds+letters[i]);
         }
-
     }
     vector<string> letterCombinations(string digits) {
-        string ds = "";
-        helper(digits,0,ds);
-        return answer;
+      string ds ="";
+      helper(digits,0,"");
+      return answer;
     }
 };
