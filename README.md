@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/garvittsingla/DSA-Grind/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/garvittsingla/DSA-Grind/tree/master/0077-combinations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
