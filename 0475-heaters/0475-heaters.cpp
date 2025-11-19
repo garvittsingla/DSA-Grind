@@ -1,15 +1,28 @@
 class Solution {
 public:
-    int findRadius(vector<int>& houses, vector<int>& heaters) {
-        int distance = 0;
-        for(int i = 0 ; i < houses.size() ; i++){
-            int closestheater = abs(heaters[0]-houses[i]);
-            for(int j = 0 ; j < heaters.size() ; j++){
-                if(abs(heaters[j]-houses[i])<closestheater){
-                    closestheater = abs(heaters[j]-houses[i]);
-                }
+    int nearestheaterdistance(vector<int> &heaters,int house){
+        int start = 0;
+        int end = heaters.size()-1;
+        int ans = INT_MAX;
+        while(start<=end){
+            int mid = start+(end-start)/2;
+            if(heaters[mid]==house) return 0;
+
+            ans = min(ans,abs(house-heaters[mid]));
+            if(heaters[mid] > house){
+                end = mid-1;
+            }else{
+                start = mid+1;
             }
-            distance = max(distance,closestheater);
+        }
+        return ans;
+    }
+    int findRadius(vector<int>& houses, vector<int>& heaters) {
+        sort(heaters.begin(),heaters.end());
+        int distance = 0;
+        for(auto house:houses){
+            int dis = nearestheaterdistance(heaters,house);
+            distance = max(distance,dis);
         }
         return distance;
     }
