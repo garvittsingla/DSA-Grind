@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/garvittsingla/DSA-Grind/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/garvittsingla/DSA-Grind/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/garvittsingla/DSA-Grind/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
