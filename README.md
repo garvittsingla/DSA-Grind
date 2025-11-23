@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/garvittsingla/DSA-Grind/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvittsingla/DSA-Grind/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1646-kth-missing-positive-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2058-concatenation-of-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0152-maximum-product-subarray) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/garvittsingla/DSA-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/garvittsingla/DSA-Grind/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2887-sort-vowels-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/2887-sort-vowels-in-a-string) |
 ## Queue
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Trie
 |  |
 | ------- |
