@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/garvittsingla/DSA-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0152-maximum-product-subarray) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/garvittsingla/DSA-Grind/tree/master/0645-set-mismatch) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/garvittsingla/DSA-Grind/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/garvittsingla/DSA-Grind/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
