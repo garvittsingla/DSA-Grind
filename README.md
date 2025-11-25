@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/garvittsingla/DSA-Grind/tree/master/0367-valid-perfect-square) |
+| [0795-k-th-symbol-in-grammar](https://github.com/garvittsingla/DSA-Grind/tree/master/0795-k-th-symbol-in-grammar) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/garvittsingla/DSA-Grind/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1448-maximum-69-number) |
@@ -220,12 +221,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/garvittsingla/DSA-Grind/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/garvittsingla/DSA-Grind/tree/master/0645-set-mismatch) |
+| [0795-k-th-symbol-in-grammar](https://github.com/garvittsingla/DSA-Grind/tree/master/0795-k-th-symbol-in-grammar) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/garvittsingla/DSA-Grind/tree/master/0002-add-two-numbers) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
+| [0795-k-th-symbol-in-grammar](https://github.com/garvittsingla/DSA-Grind/tree/master/0795-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
