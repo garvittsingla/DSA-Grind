@@ -1,30 +1,31 @@
 class Solution {
 public:
-    vector<string> answer;
-    unordered_map<int,vector<char>> mpp = {
-        {2,{'a','b','c'}},
-        {3,{'d','e','f'}},
-        {4,{'g','h','i'}},
-        {5,{'j','k','l'}},
-        {6,{'m','n','o'}},
-        {7,{'p','q','r','s'}},
-        {8,{'t','u','v'}},
-        {9,{'w','x','y','z'}},
+    vector<string> mpp = {
+        "",
+        "",
+        "abc",
+        "def",
+        "ghi",
+        "jkl",
+        "mno",
+        "pqrs",
+        "tuv",
+        "wxyz",
     };
-    void helper(string digits, int index,string ds){
-        if(ds.size() == digits.size()){
-            answer.push_back(ds);
+    vector<string> ans;
+    void helper(int index,string digits, string ds){
+        if(index>=digits.size()){
+            ans.push_back(ds);
             return;
         }
-        int digit = digits[index] -'0';
-        vector<char> letters = mpp[digit];
-        for(int i = 0 ; i < letters.size() ; i++ ){
-            helper(digits,index+1,ds+letters[i]);
+        int digit = digits[index]-'0';
+        string letters = mpp[digit];
+        for(int i = 0 ; i < letters.size() ; i++){
+            helper(index+1,digits,ds+letters[i]);
         }
     }
     vector<string> letterCombinations(string digits) {
-      string ds ="";
-      helper(digits,0,"");
-      return answer;
+        helper(0,digits,"");
+        return ans;
     }
 };
