@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/2288-count-operations-to-obtain-zero) |
+| [2317-count-collisions-on-a-road](https://github.com/garvittsingla/DSA-Grind/tree/master/2317-count-collisions-on-a-road) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
 ## Bit Manipulation
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/garvittsingla/DSA-Grind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2317-count-collisions-on-a-road](https://github.com/garvittsingla/DSA-Grind/tree/master/2317-count-collisions-on-a-road) |
 | [2887-sort-vowels-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/2887-sort-vowels-in-a-string) |
 ## Queue
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2317-count-collisions-on-a-road](https://github.com/garvittsingla/DSA-Grind/tree/master/2317-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
