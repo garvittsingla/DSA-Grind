@@ -2,18 +2,20 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
-        unordered_map<char,char> combinations = {{')','('},{']','['},{'}','{'}};
-        if (s.size()%2!=0) return false;
-        for (auto &it:s){
-            if(it =='(' || it == '{' || it == '['){
-                st.push(it);
+        unordered_map<char,char> mpp = {{')','('},{']','['},{'}','{'}};
+        for(char ch:s){
+            if(ch == '(' || ch== '{' || ch=='['){
+                st.push(ch);
             }else{
-               if (st.empty() || st.top() != combinations[it]) {
+                char opposite = mpp[ch];
+                if(st.empty()) return false;
+                 if(st.top() == opposite){
+                    st.pop();
+                }else{
                     return false;
                 }
-                st.pop();
             }
         }
-        return (st.empty());
+        return st.empty();
     }
 };
