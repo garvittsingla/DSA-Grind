@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/garvittsingla/DSA-Grind/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/garvittsingla/DSA-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/garvittsingla/DSA-Grind/tree/master/2317-count-collisions-on-a-road) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -348,4 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0160-intersection-of-two-linked-lists) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
