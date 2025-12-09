@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //bruteforce
+    //optimised
     int specialTriplets(vector<int>& nums) {
        int count = 0;
        const int mod = 1e9 + 7;
