@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/garvittsingla/DSA-Grind/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/garvittsingla/DSA-Grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0118-pascals-triangle) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/garvittsingla/DSA-Grind/tree/master/0152-maximum-product-subarray) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/garvittsingla/DSA-Grind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/garvittsingla/DSA-Grind/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/garvittsingla/DSA-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting Sort
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/garvittsingla/DSA-Grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0735-asteroid-collision](https://github.com/garvittsingla/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/garvittsingla/DSA-Grind/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 ## Linked List
 |  |
