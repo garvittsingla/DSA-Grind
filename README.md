@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/garvittsingla/DSA-Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/garvittsingla/DSA-Grind/tree/master/3885-count-special-triplets) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/garvittsingla/DSA-Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,4 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
