@@ -1,22 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>> solution;
-    void helper(int n,int k,vector<int> ds,int current){
-        if(ds.size() == k){
-            solution.push_back(ds);
+    vector<vector<int>> result;
+    void solve(int k,vector<int> ds,int n,int current){
+        if(ds.size()==k){
+            result.push_back(ds);
             return;
         }
-        if(ds.size() > k || current > n ) return;
-        for(int i = current + 1 ; i <= n ; i++){
+        for(int i = current ; i  <= n ;i++){
             ds.push_back(i);
-            helper(n,k,ds,i);
+            solve(k,ds,n,i+1);
             ds.pop_back();
         }
-        
     }
     vector<vector<int>> combine(int n, int k) {
         vector<int> ds;
-        helper(n,k,ds,0);
-        return solution;
+        solve(k,ds,n,1);
+        return result;
     }
 };
