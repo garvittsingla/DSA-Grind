@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/garvittsingla/DSA-Grind/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/garvittsingla/DSA-Grind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/garvittsingla/DSA-Grind/tree/master/2288-count-operations-to-obtain-zero) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/garvittsingla/DSA-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2317-count-collisions-on-a-road](https://github.com/garvittsingla/DSA-Grind/tree/master/2317-count-collisions-on-a-road) |
 | [2386-min-max-game](https://github.com/garvittsingla/DSA-Grind/tree/master/2386-min-max-game) |
 ## Bit Manipulation
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/garvittsingla/DSA-Grind/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0160-intersection-of-two-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/garvittsingla/DSA-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
