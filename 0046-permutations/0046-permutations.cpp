@@ -1,27 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> answer;
-    unordered_set<int> st;
-    void helper(int index, vector<int> nums,vector<int> ds){
-        if(ds.size() == nums.size()){
-            answer.push_back(ds);
+    vector<vector<int>> result; 
+    set<int> st; 
+    void helper(vector<int> ds,vector<int> nums){
+        if(ds.size()==nums.size()){
+            result.push_back(ds);
             return;
         }
-        for(auto num:nums){
-            if(st.find(num)==st.end()){
-                ds.push_back(num);
-                st.insert(num);
 
-                helper(index+1,nums,ds);
-
+        for(int i = 0 ; i< nums.size() ; i++){
+            if(st.find(nums[i])==st.end()){
+                ds.push_back(nums[i]);
+                st.insert(nums[i]);
+                helper(ds,nums);
                 ds.pop_back();
-                st.erase(num);
+                st.erase(nums[i]);
             }
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<int> ds;
-        helper(0,nums,ds);
-        return answer;
+        helper(ds,nums);
+        return result;
     }
 };
