@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/garvittsingla/DSA-Grind/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/garvittsingla/DSA-Grind/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3819-count-covered-buildings](https://github.com/garvittsingla/DSA-Grind/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/garvittsingla/DSA-Grind/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/garvittsingla/DSA-Grind/tree/master/3885-count-special-triplets) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/garvittsingla/DSA-Grind/tree/master/0645-set-mismatch) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/garvittsingla/DSA-Grind/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3819-count-covered-buildings](https://github.com/garvittsingla/DSA-Grind/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/garvittsingla/DSA-Grind/tree/master/3885-count-special-triplets) |
 ## Divide and Conquer
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/garvittsingla/DSA-Grind/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/garvittsingla/DSA-Grind/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/2887-sort-vowels-in-a-string) |
+| [3819-count-covered-buildings](https://github.com/garvittsingla/DSA-Grind/tree/master/3819-count-covered-buildings) |
 ## Counting
 |  |
 | ------- |
