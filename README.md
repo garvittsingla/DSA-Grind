@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/garvittsingla/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/garvittsingla/DSA-Grind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/garvittsingla/DSA-Grind/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/garvittsingla/DSA-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvittsingla/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/garvittsingla/DSA-Grind/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/garvittsingla/DSA-Grind/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/garvittsingla/DSA-Grind/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/garvittsingla/DSA-Grind/tree/master/0795-k-th-symbol-in-grammar) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvittsingla/DSA-Grind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/garvittsingla/DSA-Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/garvittsingla/DSA-Grind/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/garvittsingla/DSA-Grind/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/garvittsingla/DSA-Grind/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/garvittsingla/DSA-Grind/tree/master/1078-remove-outermost-parentheses) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/garvittsingla/DSA-Grind/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/garvittsingla/DSA-Grind/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/garvittsingla/DSA-Grind/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/garvittsingla/DSA-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
