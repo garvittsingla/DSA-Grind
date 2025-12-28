@@ -7,6 +7,7 @@ public:
         int i = 0;
         int j = people.size()-1;
         while(i<=j){
+            //fill the bigger people , if space left put smaller ones
             if(people[i]+people[j]<=limit){
                 boats++;
                 i++;
