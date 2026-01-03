@@ -13,11 +13,11 @@ public:
             if(ele != nums[r]){
                 ele = nums[r];
                 count = 1;
-                swap(nums[l++],nums[r]);
+                nums[l++] = nums[r];
             // second condition, if we found the same element but its count is less than 2
             }else if(ele == nums[r]){
                 if(count<2){
-                    swap(nums[l++],nums[r]);
+                    nums[l++]=nums[r];
                     count++;
                 }
             }
