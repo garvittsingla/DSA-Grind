@@ -18,10 +18,8 @@ public:
         while(even!=nullptr && even->next!=nullptr){
             current->next = even->next;
             current = current->next;
-            // if(current) {
-                even->next = current->next;
-                even = even->next;
-                // };
+            even->next = current->next;
+            even = even->next;  
              
         }
         current->next = evenhead;
