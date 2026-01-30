@@ -1,34 +1,33 @@
 class Solution {
 public:
-    vector<vector<string>> ans;
-    bool palindrome(string s){
+    vector<vector<string>> result;
+    bool palindrome(string str){
         int i = 0;
-        int j = s.size()-1;
+        int j = str.size()-1;
         while(i<j){
-            if(s[i++]!=s[j--]) return false;
+            if(str[i++]!=str[j--]) return false;
         }
         return true;
     }
-    void solve(string& s, int index, vector<string> ds){
+    void backtrack(string &s,int index,vector<string> ds){
         if(index >= s.size()){
-            ans.push_back(ds);
+            result.push_back(ds);
             return;
         }
 
-        //we have to loop
-        string str = "";
-        for(int i = index; i < s.size() ; i++){
-            str+=s[i];
-            if(palindrome(str)){
-                ds.push_back(str);
-                solve(s,i+1,ds);
+        string ans = "";
+        for(int i = index ; i < s.size() ; i++){
+            ans+=s[i];
+            if(palindrome(ans)){
+                ds.push_back(ans);
+                backtrack(s,i+1,ds);
                 ds.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
         vector<string> ds;
-        solve(s,0,ds);
-        return ans;
+        backtrack(s,0,ds);
+        return result;
     }
 };
