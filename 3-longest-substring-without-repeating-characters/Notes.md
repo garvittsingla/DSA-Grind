@@ -1,1 +1,1 @@
-<h2>longest-substring-without-repeating-characters Notes</h2><hr>[ Time taken: 2m 31s ]
+<h2>longest-substring-without-repeating-characters Notes</h2><hr>[ Time taken: 5hrs 33m 46s ]
