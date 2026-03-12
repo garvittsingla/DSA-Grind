@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //first making a map to store that the number of
     vector<int> findAnagrams(string s, string p) {
         if(s.size()<p.size()) return {};
         vector<int> freqa(26,0);
